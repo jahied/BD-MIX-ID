@@ -82,9 +82,9 @@ def menu():
     os.system('clear')
     print logo
     print '                                              \033[107;1m version :0.1\033[00;1m'
-    print '\x1b[1;93mAUTHOT   : \x1b[1;92m𝐁𝐃 𝐉𝐀𝐇𝐈𝐄𝐃'                                           
-    print '\x1b[1;93mFB GROUP : \x1b[1;92m𝐁𝐋𝐀𝐂𝐊 𝐇𝐔𝐍𝐓𝐄𝐑 𝐓𝐄𝐀𝐌'
-    print '\x1b[1;93mGITHUB   : \x1b[1;92m𝐁𝐋𝐀𝐂𝐊-𝐇𝐔𝐍𝐓𝐄𝐑-𝐓𝐄𝐀𝐌'
+    print '\x1b[1;93mAUTHOT   : \x1b[1;92mBD JAHIED'                                           
+    print '\x1b[1;93mFB GROUP : \x1b[1;92mBLACK HUNTER TEAM'
+    print '\x1b[1;93mGITHUB   : \x1b[1;92mBLACK-HUNTER-TEAM'
     print ''
     print '\x1b[1;97m============================================'
     print '\x1b[1;91m[1]  \x1b[1;93mGP'
