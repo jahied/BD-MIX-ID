@@ -68,7 +68,7 @@ def cb():
     os.system('clear')
 
 
-logo = 'n'\MIX ID B-H-T'
+logo = 'n'\ MIX ID B-H-T'
                                  
                                  
 
